@@ -1,0 +1,33 @@
+Requirements:
+# Core Libraries
+numpy==1.26.4
+pandas==2.2.2
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Statistics & Scientific Computing
+scipy==1.14.1
+
+# Jupyter (for running notebooks)
+notebook==7.2.2
+ipykernel==6.29.5
+
+# Custom Library
+# OOPs_deep_stats.py → Your own module (not pip-installable, included in repo)
+
+
+ Requirements
+
+This project requires the following libraries:
+
+- **NumPy (1.26.4)** → Numerical computations  
+- **Pandas (2.2.2)** → Data manipulation  
+- **Matplotlib (3.9.2)** → Visualization  
+- **Seaborn (0.13.2)** → Statistical plotting  
+- **SciPy (1.14.1)** → Advanced statistical functions  
+- **Jupyter Notebook (7.2.2)** & **IPyKernel (6.29.5)** → For interactive analysis  
+
+Additionally, the project includes a **custom module**:  
+- `OOPs_deep_stats.py` → Implements OOP-based statistical methods (mean, median, variance, skewness, kurtosis, confidence intervals, visualizations, etc.).  
